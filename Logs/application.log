@@ -1,0 +1,297 @@
+2020-03-21 15:27:54,109  INFO [main] CommonUtilities:25 - ##############################################################
+2020-03-21 15:27:54,118  INFO [main] CommonUtilities:26 - Starting execution of Test Suite
+2020-03-21 15:27:54,391  INFO [main] CommonUtilities:25 - Start: Trying to invoke Chrome Browser
+2020-03-21 15:28:03,082  INFO [main] CommonUtilities:28 - Finish: Successfully invoked Chrome Browser
+2020-03-21 15:28:03,083  INFO [main] CommonUtilities:49 - Start: Trying to maximize browser
+2020-03-21 15:28:04,251  INFO [main] CommonUtilities:51 - End: Successfully maximized browser window
+2020-03-21 15:28:04,411  INFO [main] CommonUtilities:69 - Start: Trying to naviate to URL- https://edulence.knowledgelink.tv/
+2020-03-21 15:28:10,428  INFO [main] CommonUtilities:71 - End: Successfully naviated to URL- https://edulence.knowledgelink.tv/
+2020-03-21 15:28:10,446  INFO [main] CommonUtilities:36 - ==============================================================
+2020-03-21 15:28:10,447  INFO [main] CommonUtilities:37 - Executing Test Case : validateUserLogin
+2020-03-21 15:28:10,464  INFO [main] CommonUtilities:90 - Start: Trying to insert data- demo@knowledgelink.tv in field - By.id: email
+2020-03-21 15:28:10,464  INFO [main] CommonUtilities:82 - Start: Trying to locate element- By.id: email
+2020-03-21 15:28:11,566  INFO [main] CommonUtilities:84 - End: Successfully located element- By.id: email
+2020-03-21 15:28:11,633  INFO [main] CommonUtilities:82 - Start: Trying to locate element- By.id: email
+2020-03-21 15:28:11,665  INFO [main] CommonUtilities:84 - End: Successfully located element- By.id: email
+2020-03-21 15:28:12,140  INFO [main] CommonUtilities:93 - End: Successfully inserted data- demo@knowledgelink.tv in field - By.id: email
+2020-03-21 15:28:12,144  INFO [main] CommonUtilities:90 - Start: Trying to insert data- 79Edulence in field - By.id: password
+2020-03-21 15:28:12,144  INFO [main] CommonUtilities:82 - Start: Trying to locate element- By.id: password
+2020-03-21 15:28:12,187  INFO [main] CommonUtilities:84 - End: Successfully located element- By.id: password
+2020-03-21 15:28:12,256  INFO [main] CommonUtilities:82 - Start: Trying to locate element- By.id: password
+2020-03-21 15:28:12,306  INFO [main] CommonUtilities:84 - End: Successfully located element- By.id: password
+2020-03-21 15:28:12,590  INFO [main] CommonUtilities:93 - End: Successfully inserted data- 79Edulence in field - By.id: password
+2020-03-21 15:28:12,590  INFO [main] CommonUtilities:98 - Start: Trying to click element- By.xpath: //button[@type='submit']
+2020-03-21 15:28:12,591  INFO [main] CommonUtilities:82 - Start: Trying to locate element- By.xpath: //button[@type='submit']
+2020-03-21 15:28:12,630  INFO [main] CommonUtilities:84 - End: Successfully located element- By.xpath: //button[@type='submit']
+2020-03-21 15:28:12,782  INFO [main] CommonUtilities:100 - End: Successfully clicked on element- By.xpath: //button[@type='submit']
+2020-03-21 15:28:12,784  INFO [main] CommonUtilities:43 - Successfully Executed Test Case : validateUserLogin
+2020-03-21 15:28:12,785  INFO [main] CommonUtilities:44 - ==============================================================
+2020-03-21 15:28:12,793  INFO [main] CommonUtilities:49 - Start: Trying to close browser
+2020-03-21 15:28:13,961  INFO [main] CommonUtilities:51 - End: Successfully closed browser
+2020-03-21 15:28:13,966  INFO [main] CommonUtilities:25 - Start: Trying to invoke Chrome Browser
+2020-03-21 15:28:21,458  INFO [main] CommonUtilities:28 - Finish: Successfully invoked Chrome Browser
+2020-03-21 15:28:21,459  INFO [main] CommonUtilities:49 - Start: Trying to maximize browser
+2020-03-21 15:28:22,654  INFO [main] CommonUtilities:51 - End: Successfully maximized browser window
+2020-03-21 15:28:22,714  INFO [main] CommonUtilities:69 - Start: Trying to naviate to URL- https://edulence.knowledgelink.tv/
+2020-03-21 15:28:29,733  INFO [main] CommonUtilities:71 - End: Successfully naviated to URL- https://edulence.knowledgelink.tv/
+2020-03-21 15:28:29,735  INFO [main] CommonUtilities:36 - ==============================================================
+2020-03-21 15:28:29,736  INFO [main] CommonUtilities:37 - Executing Test Case : validateUserLoginFail
+2020-03-21 15:28:29,737  INFO [main] CommonUtilities:90 - Start: Trying to insert data- demo@knowledgelink.tv in field - By.id: email
+2020-03-21 15:28:29,738  INFO [main] CommonUtilities:82 - Start: Trying to locate element- By.id: email
+2020-03-21 15:28:31,267  INFO [main] CommonUtilities:84 - End: Successfully located element- By.id: email
+2020-03-21 15:28:31,317  INFO [main] CommonUtilities:82 - Start: Trying to locate element- By.id: email
+2020-03-21 15:28:31,372  INFO [main] CommonUtilities:84 - End: Successfully located element- By.id: email
+2020-03-21 15:28:31,851  INFO [main] CommonUtilities:93 - End: Successfully inserted data- demo@knowledgelink.tv in field - By.id: email
+2020-03-21 15:28:31,852  INFO [main] CommonUtilities:90 - Start: Trying to insert data- 79Edulence in field - By.id: password
+2020-03-21 15:28:31,852  INFO [main] CommonUtilities:82 - Start: Trying to locate element- By.id: password
+2020-03-21 15:28:31,894  INFO [main] CommonUtilities:84 - End: Successfully located element- By.id: password
+2020-03-21 15:28:31,950  INFO [main] CommonUtilities:82 - Start: Trying to locate element- By.id: password
+2020-03-21 15:28:32,001  INFO [main] CommonUtilities:84 - End: Successfully located element- By.id: password
+2020-03-21 15:28:32,300  INFO [main] CommonUtilities:93 - End: Successfully inserted data- 79Edulence in field - By.id: password
+2020-03-21 15:28:32,301  INFO [main] CommonUtilities:98 - Start: Trying to click element- By.xpath: //button[@type='submit']
+2020-03-21 15:28:32,301  INFO [main] CommonUtilities:82 - Start: Trying to locate element- By.xpath: //button[@type='submit']
+2020-03-21 15:28:32,338  INFO [main] CommonUtilities:84 - End: Successfully located element- By.xpath: //button[@type='submit']
+2020-03-21 15:28:32,481  INFO [main] CommonUtilities:100 - End: Successfully clicked on element- By.xpath: //button[@type='submit']
+2020-03-21 15:28:32,491  INFO [main] CommonUtilities:52 - Test Case execution Failed : validateUserLoginFail
+2020-03-21 15:28:32,492  INFO [main] CommonUtilities:53 - ==============================================================
+2020-03-21 15:28:33,794  INFO [main] CommonUtilities:49 - Start: Trying to close browser
+2020-03-21 15:28:34,809  INFO [main] CommonUtilities:51 - End: Successfully closed browser
+2020-03-21 15:28:34,911  INFO [main] CommonUtilities:84 - Skipping Test Case : validateUserLoginSKIP
+2020-03-21 15:28:34,912  INFO [main] CommonUtilities:85 - ==============================================================
+2020-03-21 15:28:34,955  INFO [main] CommonUtilities:95 - Finished execution of Test Suite
+2020-03-21 15:28:34,956  INFO [main] CommonUtilities:96 - ##############################################################
+2020-03-21 15:28:35,022 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-21 15:28:35,025 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-21 15:28:35,027 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-21 15:28:35,030 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-21 15:28:35,031 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Piyush/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-21 16:15:30,976  INFO [main] CommonUtilities:25 - Start: Trying to invoke Chrome Browser
+2020-03-21 16:15:42,585  INFO [main] CommonUtilities:28 - Finish: Successfully invoked Chrome Browser
+2020-03-21 16:15:42,586  INFO [main] CommonUtilities:49 - Start: Trying to maximize browser
+2020-03-21 16:15:43,740  INFO [main] CommonUtilities:51 - End: Successfully maximized browser window
+2020-03-21 16:15:43,811  INFO [main] CommonUtilities:69 - Start: Trying to naviate to URL- https://edulence.knowledgelink.tv/
+2020-03-21 16:15:49,358  INFO [main] CommonUtilities:71 - End: Successfully naviated to URL- https://edulence.knowledgelink.tv/
+2020-03-21 16:15:49,380  INFO [main] CommonUtilities:90 - Start: Trying to insert data- Piyush in field - By.id: email
+2020-03-21 16:15:49,381  INFO [main] CommonUtilities:82 - Start: Trying to locate element- By.id: email
+2020-03-21 16:15:50,531  INFO [main] CommonUtilities:84 - End: Successfully located element- By.id: email
+2020-03-21 16:15:50,882  INFO [main] CommonUtilities:93 - End: Successfully inserted data- Piyush in field - By.id: email
+2020-03-21 16:15:50,882  INFO [main] CommonUtilities:90 - Start: Trying to insert data- Goyal in field - By.id: password
+2020-03-21 16:15:50,883  INFO [main] CommonUtilities:82 - Start: Trying to locate element- By.id: password
+2020-03-21 16:15:50,922  INFO [main] CommonUtilities:84 - End: Successfully located element- By.id: password
+2020-03-21 16:15:51,168  INFO [main] CommonUtilities:93 - End: Successfully inserted data- Goyal in field - By.id: password
+2020-03-21 16:15:51,169  INFO [main] CommonUtilities:98 - Start: Trying to click element- By.xpath: //button[@type='submit']
+2020-03-21 16:15:51,170  INFO [main] CommonUtilities:82 - Start: Trying to locate element- By.xpath: //button[@type='submit']
+2020-03-21 16:15:51,229  INFO [main] CommonUtilities:84 - End: Successfully located element- By.xpath: //button[@type='submit']
+2020-03-21 16:15:51,420  INFO [main] CommonUtilities:55 - Start: Trying to close browser
+2020-03-21 16:15:52,293  INFO [main] CommonUtilities:57 - End: Successfully closed browser
+2020-03-21 16:15:52,295  INFO [main] CommonUtilities:25 - Start: Trying to invoke Chrome Browser
+2020-03-21 16:15:59,615  INFO [main] CommonUtilities:28 - Finish: Successfully invoked Chrome Browser
+2020-03-21 16:15:59,615  INFO [main] CommonUtilities:49 - Start: Trying to maximize browser
+2020-03-21 16:16:00,909  INFO [main] CommonUtilities:51 - End: Successfully maximized browser window
+2020-03-21 16:16:01,018  INFO [main] CommonUtilities:69 - Start: Trying to naviate to URL- https://edulence.knowledgelink.tv/
+2020-03-21 16:16:07,267  INFO [main] CommonUtilities:71 - End: Successfully naviated to URL- https://edulence.knowledgelink.tv/
+2020-03-21 16:16:07,274  INFO [main] CommonUtilities:55 - Start: Trying to close browser
+2020-03-21 16:16:08,450  INFO [main] CommonUtilities:57 - End: Successfully closed browser
+2020-03-21 16:16:08,451  INFO [main] CommonUtilities:25 - Start: Trying to invoke Chrome Browser
+2020-03-21 16:16:15,305  INFO [main] CommonUtilities:28 - Finish: Successfully invoked Chrome Browser
+2020-03-21 16:16:15,306  INFO [main] CommonUtilities:49 - Start: Trying to maximize browser
+2020-03-21 16:16:16,523  INFO [main] CommonUtilities:51 - End: Successfully maximized browser window
+2020-03-21 16:16:16,591  INFO [main] CommonUtilities:69 - Start: Trying to naviate to URL- https://edulence.knowledgelink.tv/
+2020-03-21 16:16:22,374  INFO [main] CommonUtilities:71 - End: Successfully naviated to URL- https://edulence.knowledgelink.tv/
+2020-03-21 16:16:22,381  INFO [main] CommonUtilities:90 - Start: Trying to insert data-  in field - By.id: email
+2020-03-21 16:16:22,381  INFO [main] CommonUtilities:82 - Start: Trying to locate element- By.id: email
+2020-03-21 16:16:23,362  INFO [main] CommonUtilities:84 - End: Successfully located element- By.id: email
+2020-03-21 16:16:23,451  INFO [main] CommonUtilities:93 - End: Successfully inserted data-  in field - By.id: email
+2020-03-21 16:16:23,452  INFO [main] CommonUtilities:90 - Start: Trying to insert data-  in field - By.id: password
+2020-03-21 16:16:23,454  INFO [main] CommonUtilities:82 - Start: Trying to locate element- By.id: password
+2020-03-21 16:16:23,492  INFO [main] CommonUtilities:84 - End: Successfully located element- By.id: password
+2020-03-21 16:16:23,615  INFO [main] CommonUtilities:93 - End: Successfully inserted data-  in field - By.id: password
+2020-03-21 16:16:23,615  INFO [main] CommonUtilities:98 - Start: Trying to click element- By.xpath: //button[@type='submit']
+2020-03-21 16:16:23,616  INFO [main] CommonUtilities:82 - Start: Trying to locate element- By.xpath: //button[@type='submit']
+2020-03-21 16:16:23,661  INFO [main] CommonUtilities:84 - End: Successfully located element- By.xpath: //button[@type='submit']
+2020-03-21 16:16:23,818  INFO [main] CommonUtilities:55 - Start: Trying to close browser
+2020-03-21 16:16:24,772  INFO [main] CommonUtilities:57 - End: Successfully closed browser
+2020-03-21 16:16:24,774  INFO [main] CommonUtilities:25 - Start: Trying to invoke Chrome Browser
+2020-03-21 16:16:31,784  INFO [main] CommonUtilities:28 - Finish: Successfully invoked Chrome Browser
+2020-03-21 16:16:31,785  INFO [main] CommonUtilities:49 - Start: Trying to maximize browser
+2020-03-21 16:16:32,913  INFO [main] CommonUtilities:51 - End: Successfully maximized browser window
+2020-03-21 16:16:32,978  INFO [main] CommonUtilities:69 - Start: Trying to naviate to URL- https://edulence.knowledgelink.tv/
+2020-03-21 16:16:38,690  INFO [main] CommonUtilities:71 - End: Successfully naviated to URL- https://edulence.knowledgelink.tv/
+2020-03-21 16:16:38,694  INFO [main] CommonUtilities:55 - Start: Trying to close browser
+2020-03-21 16:16:39,665  INFO [main] CommonUtilities:57 - End: Successfully closed browser
+2020-03-21 16:16:39,668  INFO [main] CommonUtilities:25 - Start: Trying to invoke Chrome Browser
+2020-03-21 16:16:46,455  INFO [main] CommonUtilities:28 - Finish: Successfully invoked Chrome Browser
+2020-03-21 16:16:46,456  INFO [main] CommonUtilities:49 - Start: Trying to maximize browser
+2020-03-21 16:16:47,615  INFO [main] CommonUtilities:51 - End: Successfully maximized browser window
+2020-03-21 16:16:47,693  INFO [main] CommonUtilities:69 - Start: Trying to naviate to URL- https://edulence.knowledgelink.tv/
+2020-03-21 16:37:46,192  INFO [main] CommonUtilities:38 - Start: Trying to close browser
+2020-03-21 16:39:15,462  INFO [main] CommonUtilities:37 - Start: Trying to close browser
+2020-03-22 12:45:04,745  INFO [main] CommonUtilities:25 - ##############################################################
+2020-03-22 12:45:04,753  INFO [main] CommonUtilities:26 - Starting execution of Test Suite
+2020-03-22 12:45:05,229  INFO [main] CommonUtilities:28 - Start: Trying to invoke Chrome Browser
+2020-03-22 12:45:14,808  INFO [main] CommonUtilities:31 - Finish: Successfully invoked Chrome Browser
+2020-03-22 12:45:14,808  INFO [main] CommonUtilities:52 - Start: Trying to maximize browser
+2020-03-22 12:45:15,984  INFO [main] CommonUtilities:54 - End: Successfully maximized browser window
+2020-03-22 12:45:16,100  INFO [main] CommonUtilities:72 - Start: Trying to naviate to URL- https://edulence.knowledgelink.tv/
+2020-03-22 12:45:23,218  INFO [main] CommonUtilities:74 - End: Successfully naviated to URL- https://edulence.knowledgelink.tv/
+2020-03-22 12:45:23,244  INFO [main] CommonUtilities:36 - ==============================================================
+2020-03-22 12:45:23,245  INFO [main] CommonUtilities:37 - Executing Test Case : validateUserLogin
+2020-03-22 12:45:23,253  INFO [main] CommonUtilities:93 - Start: Trying to insert data- demo@knowledgelink.tv in field - By.id: email
+2020-03-22 12:45:23,254  INFO [main] CommonUtilities:85 - Start: Trying to locate element- By.id: email
+2020-03-22 12:45:24,255  INFO [main] CommonUtilities:87 - End: Successfully located element- By.id: email
+2020-03-22 12:45:24,938  INFO [main] CommonUtilities:96 - End: Successfully inserted data- demo@knowledgelink.tv in field - By.id: email
+2020-03-22 12:45:24,939  INFO [main] CommonUtilities:93 - Start: Trying to insert data- 79Edulence in field - By.id: password
+2020-03-22 12:45:24,939  INFO [main] CommonUtilities:85 - Start: Trying to locate element- By.id: password
+2020-03-22 12:45:24,988  INFO [main] CommonUtilities:87 - End: Successfully located element- By.id: password
+2020-03-22 12:45:25,382  INFO [main] CommonUtilities:96 - End: Successfully inserted data- 79Edulence in field - By.id: password
+2020-03-22 12:45:25,383  INFO [main] CommonUtilities:101 - Start: Trying to click element- By.xpath: //button[@type='submit']
+2020-03-22 12:45:25,383  INFO [main] CommonUtilities:85 - Start: Trying to locate element- By.xpath: //button[@type='submit']
+2020-03-22 12:45:25,422  INFO [main] CommonUtilities:87 - End: Successfully located element- By.xpath: //button[@type='submit']
+2020-03-22 12:45:25,918  INFO [main] CommonUtilities:103 - End: Successfully clicked on element- By.xpath: //button[@type='submit']
+2020-03-22 12:45:25,918  INFO [main] CommonUtilities:101 - Start: Trying to click element- By.xpath: //button[@ng-click='submit()']
+2020-03-22 12:45:25,919  INFO [main] CommonUtilities:85 - Start: Trying to locate element- By.xpath: //button[@ng-click='submit()']
+2020-03-22 12:45:30,827  INFO [main] CommonUtilities:87 - End: Successfully located element- By.xpath: //button[@ng-click='submit()']
+2020-03-22 12:45:31,574  INFO [main] CommonUtilities:103 - End: Successfully clicked on element- By.xpath: //button[@ng-click='submit()']
+2020-03-22 12:45:31,576  INFO [main] CommonUtilities:43 - Successfully Executed Test Case : validateUserLogin
+2020-03-22 12:45:31,576  INFO [main] CommonUtilities:44 - ==============================================================
+2020-03-22 12:45:31,584  INFO [main] CommonUtilities:49 - Start: Trying to close browser
+2020-03-22 12:45:32,808  INFO [main] CommonUtilities:51 - End: Successfully closed browser
+2020-03-22 12:45:32,933  INFO [main] CommonUtilities:95 - Finished execution of Test Suite
+2020-03-22 12:45:32,934  INFO [main] CommonUtilities:96 - ##############################################################
+2020-03-22 12:45:33,061 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-22 12:45:33,063 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-22 12:45:33,066 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-22 12:45:33,068 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-22 12:45:33,069 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Piyush/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-22 12:50:29,916  INFO [main] CommonUtilities:28 - Start: Trying to invoke Chrome Browser
+2020-03-22 12:50:36,044  INFO [main] CommonUtilities:31 - Finish: Successfully invoked Chrome Browser
+2020-03-22 12:50:36,049  INFO [main] CommonUtilities:52 - Start: Trying to maximize browser
+2020-03-22 12:50:37,224  INFO [main] CommonUtilities:54 - End: Successfully maximized browser window
+2020-03-22 12:50:37,341  INFO [main] CommonUtilities:72 - Start: Trying to naviate to URL- https://edulence.knowledgelink.tv/
+2020-03-22 12:50:43,945  INFO [main] CommonUtilities:74 - End: Successfully naviated to URL- https://edulence.knowledgelink.tv/
+2020-03-22 12:50:43,968  INFO [main] CommonUtilities:93 - Start: Trying to insert data- demo@knowledgelink.tv in field - By.id: email
+2020-03-22 12:50:43,968  INFO [main] CommonUtilities:85 - Start: Trying to locate element- By.id: email
+2020-03-22 12:50:45,112  INFO [main] CommonUtilities:87 - End: Successfully located element- By.id: email
+2020-03-22 12:50:45,717  INFO [main] CommonUtilities:96 - End: Successfully inserted data- demo@knowledgelink.tv in field - By.id: email
+2020-03-22 12:50:45,718  INFO [main] CommonUtilities:93 - Start: Trying to insert data- 79Edulence in field - By.id: password
+2020-03-22 12:50:45,718  INFO [main] CommonUtilities:85 - Start: Trying to locate element- By.id: password
+2020-03-22 12:50:45,762  INFO [main] CommonUtilities:87 - End: Successfully located element- By.id: password
+2020-03-22 12:50:46,296  INFO [main] CommonUtilities:96 - End: Successfully inserted data- 79Edulence in field - By.id: password
+2020-03-22 12:50:46,297  INFO [main] CommonUtilities:101 - Start: Trying to click element- By.xpath: //button[@type='submit']
+2020-03-22 12:50:46,298  INFO [main] CommonUtilities:85 - Start: Trying to locate element- By.xpath: //button[@type='submit']
+2020-03-22 12:50:46,389  INFO [main] CommonUtilities:87 - End: Successfully located element- By.xpath: //button[@type='submit']
+2020-03-22 12:50:46,654  INFO [main] CommonUtilities:103 - End: Successfully clicked on element- By.xpath: //button[@type='submit']
+2020-03-22 12:50:46,655  INFO [main] CommonUtilities:112 - Start: Trying to move to element- By.xpath: //button[@ng-click='submit()']
+2020-03-22 12:50:46,673  INFO [main] CommonUtilities:85 - Start: Trying to locate element- By.xpath: //button[@ng-click='submit()']
+2020-03-22 12:50:52,353  INFO [main] CommonUtilities:87 - End: Successfully located element- By.xpath: //button[@ng-click='submit()']
+2020-03-22 12:50:53,015  INFO [main] CommonUtilities:114 - End: Successfully moved to element- By.xpath: //button[@ng-click='submit()']
+2020-03-22 12:50:55,019  INFO [main] CommonUtilities:49 - Start: Trying to close browser
+2020-03-22 12:50:56,322  INFO [main] CommonUtilities:51 - End: Successfully closed browser
+2020-03-22 19:30:39,181 DEBUG [main] RequestAddCookies:123 - CookieSpec selected: default
+2020-03-22 19:30:39,227 DEBUG [main] RequestAuthCache:77 - Auth cache not set in the context
+2020-03-22 19:30:39,231 DEBUG [main] PoolingHttpClientConnectionManager:265 - Connection request: [route: {s}->https://chromedriver.storage.googleapis.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2020-03-22 19:30:39,276 DEBUG [main] PoolingHttpClientConnectionManager:309 - Connection leased: [id: 0][route: {s}->https://chromedriver.storage.googleapis.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2020-03-22 19:30:39,280 DEBUG [main] MainClientExec:235 - Opening connection {s}->https://chromedriver.storage.googleapis.com:443
+2020-03-22 19:30:39,475 DEBUG [main] DefaultHttpClientConnectionOperator:139 - Connecting to chromedriver.storage.googleapis.com/216.58.196.80:443
+2020-03-22 19:30:39,475 DEBUG [main] SSLConnectionSocketFactory:337 - Connecting socket to chromedriver.storage.googleapis.com/216.58.196.80:443 with timeout 0
+2020-03-22 19:30:39,855 DEBUG [main] SSLConnectionSocketFactory:390 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2020-03-22 19:30:39,855 DEBUG [main] SSLConnectionSocketFactory:391 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2020-03-22 19:30:39,856 DEBUG [main] SSLConnectionSocketFactory:395 - Starting handshake
+2020-03-22 19:30:40,224 DEBUG [main] SSLConnectionSocketFactory:425 - Secure session established
+2020-03-22 19:30:40,237 DEBUG [main] SSLConnectionSocketFactory:426 -  negotiated protocol: TLSv1.2
+2020-03-22 19:30:40,237 DEBUG [main] SSLConnectionSocketFactory:427 -  negotiated cipher suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+2020-03-22 19:30:40,238 DEBUG [main] SSLConnectionSocketFactory:435 -  peer principal: CN=*.storage.googleapis.com, O=Google LLC, L=Mountain View, ST=California, C=US
+2020-03-22 19:30:40,240 DEBUG [main] SSLConnectionSocketFactory:444 -  peer alternative names: [*.storage.googleapis.com, *.appspot.com.storage.googleapis.com, *.commondatastorage.googleapis.com, *.content-storage-download.googleapis.com, *.content-storage-upload.googleapis.com, *.content-storage.googleapis.com, *.googleapis.com, *.storage-download.googleapis.com, *.storage-upload.googleapis.com, *.storage.select.googleapis.com, commondatastorage.googleapis.com, storage.googleapis.com, storage.select.googleapis.com, unfiltered.news]
+2020-03-22 19:30:40,241 DEBUG [main] SSLConnectionSocketFactory:448 -  issuer principal: CN=GTS CA 1O1, O=Google Trust Services, C=US
+2020-03-22 19:30:40,245 DEBUG [main] DefaultHttpClientConnectionOperator:146 - Connection established 192.168.43.64:62001<->216.58.196.80:443
+2020-03-22 19:30:40,246 DEBUG [main] MainClientExec:256 - Executing request OPTIONS / HTTP/1.1
+2020-03-22 19:30:40,246 DEBUG [main] MainClientExec:261 - Target auth state: UNCHALLENGED
+2020-03-22 19:30:40,248 DEBUG [main] MainClientExec:267 - Proxy auth state: UNCHALLENGED
+2020-03-22 19:30:40,258 DEBUG [main] headers:133 - http-outgoing-0 >> OPTIONS / HTTP/1.1
+2020-03-22 19:30:40,258 DEBUG [main] headers:136 - http-outgoing-0 >> Host: chromedriver.storage.googleapis.com
+2020-03-22 19:30:40,258 DEBUG [main] headers:136 - http-outgoing-0 >> Connection: Keep-Alive
+2020-03-22 19:30:40,260 DEBUG [main] headers:136 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_191)
+2020-03-22 19:30:40,260 DEBUG [main] headers:136 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2020-03-22 19:30:40,260 DEBUG [main] wire:73 - http-outgoing-0 >> "OPTIONS / HTTP/1.1[\r][\n]"
+2020-03-22 19:30:40,261 DEBUG [main] wire:73 - http-outgoing-0 >> "Host: chromedriver.storage.googleapis.com[\r][\n]"
+2020-03-22 19:30:40,261 DEBUG [main] wire:73 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2020-03-22 19:30:40,261 DEBUG [main] wire:73 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_191)[\r][\n]"
+2020-03-22 19:30:40,262 DEBUG [main] wire:73 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-03-22 19:30:40,262 DEBUG [main] wire:73 - http-outgoing-0 >> "[\r][\n]"
+2020-03-22 19:30:40,338 DEBUG [main] wire:73 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2020-03-22 19:30:40,339 DEBUG [main] wire:73 - http-outgoing-0 << "X-GUploader-UploadID: AEnB2Uqrs2kd5gDZzFrDkP9LSjeP6MN3z4WcQmCssaZsN3chj6K1GwJtyLNyFORl009ajN58NHKn3yS9fNmX71wCKRzt557sIw[\r][\n]"
+2020-03-22 19:30:40,339 DEBUG [main] wire:73 - http-outgoing-0 << "Date: Sun, 22 Mar 2020 14:00:39 GMT[\r][\n]"
+2020-03-22 19:30:40,340 DEBUG [main] wire:73 - http-outgoing-0 << "Expires: Sun, 22 Mar 2020 14:00:39 GMT[\r][\n]"
+2020-03-22 19:30:40,340 DEBUG [main] wire:73 - http-outgoing-0 << "Cache-Control: private, max-age=0[\r][\n]"
+2020-03-22 19:30:40,343 DEBUG [main] wire:73 - http-outgoing-0 << "Content-Length: 0[\r][\n]"
+2020-03-22 19:30:40,344 DEBUG [main] wire:73 - http-outgoing-0 << "Server: UploadServer[\r][\n]"
+2020-03-22 19:30:40,344 DEBUG [main] wire:73 - http-outgoing-0 << "Content-Type: text/html; charset=UTF-8[\r][\n]"
+2020-03-22 19:30:40,344 DEBUG [main] wire:73 - http-outgoing-0 << "Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,h3-T050=":443"; ma=2592000[\r][\n]"
+2020-03-22 19:30:40,345 DEBUG [main] wire:73 - http-outgoing-0 << "[\r][\n]"
+2020-03-22 19:30:40,365 DEBUG [main] headers:122 - http-outgoing-0 << HTTP/1.1 200 OK
+2020-03-22 19:30:40,365 DEBUG [main] headers:125 - http-outgoing-0 << X-GUploader-UploadID: AEnB2Uqrs2kd5gDZzFrDkP9LSjeP6MN3z4WcQmCssaZsN3chj6K1GwJtyLNyFORl009ajN58NHKn3yS9fNmX71wCKRzt557sIw
+2020-03-22 19:30:40,367 DEBUG [main] headers:125 - http-outgoing-0 << Date: Sun, 22 Mar 2020 14:00:39 GMT
+2020-03-22 19:30:40,367 DEBUG [main] headers:125 - http-outgoing-0 << Expires: Sun, 22 Mar 2020 14:00:39 GMT
+2020-03-22 19:30:40,367 DEBUG [main] headers:125 - http-outgoing-0 << Cache-Control: private, max-age=0
+2020-03-22 19:30:40,367 DEBUG [main] headers:125 - http-outgoing-0 << Content-Length: 0
+2020-03-22 19:30:40,368 DEBUG [main] headers:125 - http-outgoing-0 << Server: UploadServer
+2020-03-22 19:30:40,368 DEBUG [main] headers:125 - http-outgoing-0 << Content-Type: text/html; charset=UTF-8
+2020-03-22 19:30:40,369 DEBUG [main] headers:125 - http-outgoing-0 << Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,h3-T050=":443"; ma=2592000
+2020-03-22 19:30:40,378 DEBUG [main] MainClientExec:285 - Connection can be kept alive indefinitely
+2020-03-22 19:30:40,379 DEBUG [main] PoolingHttpClientConnectionManager:341 - Connection [id: 0][route: {s}->https://chromedriver.storage.googleapis.com:443] can be kept alive indefinitely
+2020-03-22 19:30:40,379 DEBUG [main] DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 0
+2020-03-22 19:30:40,379 DEBUG [main] PoolingHttpClientConnectionManager:348 - Connection released: [id: 0][route: {s}->https://chromedriver.storage.googleapis.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2020-03-22 19:45:17,491 DEBUG [main] RequestAddCookies:123 - CookieSpec selected: default
+2020-03-22 19:45:17,526 DEBUG [main] RequestAuthCache:77 - Auth cache not set in the context
+2020-03-22 19:45:17,530 DEBUG [main] PoolingHttpClientConnectionManager:265 - Connection request: [route: {s}->https://chromedriver.storage.googleapis.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2020-03-22 19:45:17,562 DEBUG [main] PoolingHttpClientConnectionManager:309 - Connection leased: [id: 0][route: {s}->https://chromedriver.storage.googleapis.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2020-03-22 19:45:17,565 DEBUG [main] MainClientExec:235 - Opening connection {s}->https://chromedriver.storage.googleapis.com:443
+2020-03-22 19:45:17,893 DEBUG [main] DefaultHttpClientConnectionOperator:139 - Connecting to chromedriver.storage.googleapis.com/172.217.167.176:443
+2020-03-22 19:45:17,894 DEBUG [main] SSLConnectionSocketFactory:337 - Connecting socket to chromedriver.storage.googleapis.com/172.217.167.176:443 with timeout 0
+2020-03-22 19:45:18,097 DEBUG [main] SSLConnectionSocketFactory:390 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2020-03-22 19:45:18,097 DEBUG [main] SSLConnectionSocketFactory:391 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2020-03-22 19:45:18,098 DEBUG [main] SSLConnectionSocketFactory:395 - Starting handshake
+2020-03-22 19:45:18,413 DEBUG [main] SSLConnectionSocketFactory:425 - Secure session established
+2020-03-22 19:45:18,413 DEBUG [main] SSLConnectionSocketFactory:426 -  negotiated protocol: TLSv1.2
+2020-03-22 19:45:18,414 DEBUG [main] SSLConnectionSocketFactory:427 -  negotiated cipher suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+2020-03-22 19:45:18,414 DEBUG [main] SSLConnectionSocketFactory:435 -  peer principal: CN=*.storage.googleapis.com, O=Google LLC, L=Mountain View, ST=California, C=US
+2020-03-22 19:45:18,415 DEBUG [main] SSLConnectionSocketFactory:444 -  peer alternative names: [*.storage.googleapis.com, *.appspot.com.storage.googleapis.com, *.commondatastorage.googleapis.com, *.content-storage-download.googleapis.com, *.content-storage-upload.googleapis.com, *.content-storage.googleapis.com, *.googleapis.com, *.storage-download.googleapis.com, *.storage-upload.googleapis.com, *.storage.select.googleapis.com, commondatastorage.googleapis.com, storage.googleapis.com, storage.select.googleapis.com, unfiltered.news]
+2020-03-22 19:45:18,416 DEBUG [main] SSLConnectionSocketFactory:448 -  issuer principal: CN=GTS CA 1O1, O=Google Trust Services, C=US
+2020-03-22 19:45:18,419 DEBUG [main] DefaultHttpClientConnectionOperator:146 - Connection established 192.168.43.64:57758<->172.217.167.176:443
+2020-03-22 19:45:18,420 DEBUG [main] MainClientExec:256 - Executing request OPTIONS / HTTP/1.1
+2020-03-22 19:45:18,420 DEBUG [main] MainClientExec:261 - Target auth state: UNCHALLENGED
+2020-03-22 19:45:18,425 DEBUG [main] MainClientExec:267 - Proxy auth state: UNCHALLENGED
+2020-03-22 19:45:18,428 DEBUG [main] headers:133 - http-outgoing-0 >> OPTIONS / HTTP/1.1
+2020-03-22 19:45:18,429 DEBUG [main] headers:136 - http-outgoing-0 >> Host: chromedriver.storage.googleapis.com
+2020-03-22 19:45:18,429 DEBUG [main] headers:136 - http-outgoing-0 >> Connection: Keep-Alive
+2020-03-22 19:45:18,429 DEBUG [main] headers:136 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_191)
+2020-03-22 19:45:18,430 DEBUG [main] headers:136 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2020-03-22 19:45:18,430 DEBUG [main] wire:73 - http-outgoing-0 >> "OPTIONS / HTTP/1.1[\r][\n]"
+2020-03-22 19:45:18,430 DEBUG [main] wire:73 - http-outgoing-0 >> "Host: chromedriver.storage.googleapis.com[\r][\n]"
+2020-03-22 19:45:18,431 DEBUG [main] wire:73 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2020-03-22 19:45:18,431 DEBUG [main] wire:73 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_191)[\r][\n]"
+2020-03-22 19:45:18,431 DEBUG [main] wire:73 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-03-22 19:45:18,431 DEBUG [main] wire:73 - http-outgoing-0 >> "[\r][\n]"
+2020-03-22 19:45:18,501 DEBUG [main] wire:73 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2020-03-22 19:45:18,502 DEBUG [main] wire:73 - http-outgoing-0 << "X-GUploader-UploadID: AEnB2UpwLfjcGer1ou0a1sHXB2b2xgN5L6Cm1uRd0yguI0yXyFpsBDM4q_0-pCg4igUV2HxGzwJslBT3YZc3eXX_Ok6rgECOWQ[\r][\n]"
+2020-03-22 19:45:18,502 DEBUG [main] wire:73 - http-outgoing-0 << "Date: Sun, 22 Mar 2020 14:15:18 GMT[\r][\n]"
+2020-03-22 19:45:18,503 DEBUG [main] wire:73 - http-outgoing-0 << "Expires: Sun, 22 Mar 2020 14:15:18 GMT[\r][\n]"
+2020-03-22 19:45:18,503 DEBUG [main] wire:73 - http-outgoing-0 << "Cache-Control: private, max-age=0[\r][\n]"
+2020-03-22 19:45:18,504 DEBUG [main] wire:73 - http-outgoing-0 << "Content-Length: 0[\r][\n]"
+2020-03-22 19:45:18,504 DEBUG [main] wire:73 - http-outgoing-0 << "Server: UploadServer[\r][\n]"
+2020-03-22 19:45:18,505 DEBUG [main] wire:73 - http-outgoing-0 << "Content-Type: text/html; charset=UTF-8[\r][\n]"
+2020-03-22 19:45:18,505 DEBUG [main] wire:73 - http-outgoing-0 << "Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,h3-T050=":443"; ma=2592000[\r][\n]"
+2020-03-22 19:45:18,506 DEBUG [main] wire:73 - http-outgoing-0 << "[\r][\n]"
+2020-03-22 19:45:18,517 DEBUG [main] headers:122 - http-outgoing-0 << HTTP/1.1 200 OK
+2020-03-22 19:45:18,518 DEBUG [main] headers:125 - http-outgoing-0 << X-GUploader-UploadID: AEnB2UpwLfjcGer1ou0a1sHXB2b2xgN5L6Cm1uRd0yguI0yXyFpsBDM4q_0-pCg4igUV2HxGzwJslBT3YZc3eXX_Ok6rgECOWQ
+2020-03-22 19:45:18,519 DEBUG [main] headers:125 - http-outgoing-0 << Date: Sun, 22 Mar 2020 14:15:18 GMT
+2020-03-22 19:45:18,519 DEBUG [main] headers:125 - http-outgoing-0 << Expires: Sun, 22 Mar 2020 14:15:18 GMT
+2020-03-22 19:45:18,520 DEBUG [main] headers:125 - http-outgoing-0 << Cache-Control: private, max-age=0
+2020-03-22 19:45:18,520 DEBUG [main] headers:125 - http-outgoing-0 << Content-Length: 0
+2020-03-22 19:45:18,522 DEBUG [main] headers:125 - http-outgoing-0 << Server: UploadServer
+2020-03-22 19:45:18,522 DEBUG [main] headers:125 - http-outgoing-0 << Content-Type: text/html; charset=UTF-8
+2020-03-22 19:45:18,524 DEBUG [main] headers:125 - http-outgoing-0 << Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,h3-T050=":443"; ma=2592000
+2020-03-22 19:45:18,541 DEBUG [main] MainClientExec:285 - Connection can be kept alive indefinitely
+2020-03-22 19:45:18,542 DEBUG [main] PoolingHttpClientConnectionManager:341 - Connection [id: 0][route: {s}->https://chromedriver.storage.googleapis.com:443] can be kept alive indefinitely
+2020-03-22 19:45:18,542 DEBUG [main] DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 0
+2020-03-22 19:45:18,543 DEBUG [main] PoolingHttpClientConnectionManager:348 - Connection released: [id: 0][route: {s}->https://chromedriver.storage.googleapis.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
