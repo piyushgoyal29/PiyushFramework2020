@@ -44,6 +44,6 @@ public class LoginPage extends CommonUtilities
 		enterData(emailAddress, receivedEmailAddress);
 		enterData(password, receivedPassword);
 		clickOnElement(signInBtn);
-		moveCursorToElement(acceptLoginPopup);
+		clickOnElement(acceptLoginPopup);
 	}
 }

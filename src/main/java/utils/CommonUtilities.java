@@ -65,13 +65,13 @@ public class CommonUtilities
 //		driver = eventFiringDriver;
 		
 		driver.manage().deleteAllCookies();
-		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
+//		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		
 		String url = ReadPropertiesFile.getPropertyValue("url");
-		log.info("Start: Trying to naviate to URL- "+url);
+		log.info("Start: Trying to navigate to URL- "+url);
 		driver.get(url);
-		log.info("End: Successfully naviated to URL- "+url);
+		log.info("End: Successfully navigated to URL- "+url);
 		return driver;
 	}
 
@@ -121,5 +121,22 @@ public class CommonUtilities
 		log.info("End: Successfully moved from element - " +source +" to element- "+destination);
 	}
 	
+	public String verifyTitle()
+	{
+		log.info("Fetching the title of the webpage");
+		return driver.getTitle();
+	}
 	
+	public String verifyURL()
+	{
+		log.info("Fetching the URL of the webpage");
+		return driver.getCurrentUrl();
+	}
+	
+	public void quitBrowser()
+	{
+		log.info("Start: Trying to close browser");
+		driver.quit();
+		log.info("End: Successfully closed browser");
+	}
 }
